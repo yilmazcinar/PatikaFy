@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\bin\Debug\net8.0\PatikaFyProject.exe
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\bin\Debug\net8.0\PatikaFyProject.deps.json
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\bin\Debug\net8.0\PatikaFyProject.runtimeconfig.json
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\bin\Debug\net8.0\PatikaFyProject.dll
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\bin\Debug\net8.0\PatikaFyProject.pdb
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\obj\Debug\net8.0\PatikaFyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\obj\Debug\net8.0\PatikaFyProject.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\obj\Debug\net8.0\PatikaFyProject.AssemblyInfo.cs
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\obj\Debug\net8.0\PatikaFyProject.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\obj\Debug\net8.0\PatikaFyProject.dll
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\obj\Debug\net8.0\refint\PatikaFyProject.dll
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\obj\Debug\net8.0\PatikaFyProject.pdb
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\obj\Debug\net8.0\PatikaFyProject.genruntimeconfig.cache
+C:\Users\caplo\source\repos\PatikaFyProject\PatikaFyProject\obj\Debug\net8.0\ref\PatikaFyProject.dll
